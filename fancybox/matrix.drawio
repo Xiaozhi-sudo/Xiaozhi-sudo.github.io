@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T12:08:40.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" version="21.3.2" etag="wvjOMPj3-UruHmYU6brG" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T12:14:57.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="p5cb-R50HCpD-vx11YYm" version="21.3.2" type="github">
   <diagram name="第 1 页" id="FXjS6Dq7JEPYlVp7Z1uK">
-    <mxGraphModel>
+    <mxGraphModel dx="1103" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;两个列向量，相乘得到标量&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.571428571428571;endSize=6.045714285714285;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="339.71" as="sourcePoint" />
+            <mxPoint x="560" y="339.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一定是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-8" value="$$A^TB$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;的形式&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266" y="350" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;两个列向量，相乘得到标量&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="480" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.571428571428571;endSize=6.045714285714285;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="619.43" as="sourcePoint" />
+            <mxPoint x="780" y="619.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一定是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-16" value="$$A^TMB$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;的形式&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266" y="630" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKb4nL0eZqkrUvBYIEC7-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
